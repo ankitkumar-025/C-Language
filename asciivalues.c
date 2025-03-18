@@ -5,6 +5,6 @@ int main()
 
     
     printf("%d",ch);
-    j
+    
 
 }
