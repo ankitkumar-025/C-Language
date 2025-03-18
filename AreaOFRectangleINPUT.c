@@ -7,4 +7,4 @@ scanf("%f%f",&l,&b);
 float area=l*b;
 printf("\narea of rectangle is %f",area);
 }
-j
+
