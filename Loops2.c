@@ -9,7 +9,7 @@ int main()
     for(int i=1;i<=n;i++)
     {
         sum=sum+i;
-        p
+        ff
     }
     printf("The sum of the no is %d\n",sum);
 
