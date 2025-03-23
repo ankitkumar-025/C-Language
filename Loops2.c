@@ -11,7 +11,7 @@ int main()
         sum=sum+i;
         
     }
-    printf("The sum of the no is %d\n",sum);p
+    printf("The sum of the no is %d\n",sum);
 
 for(int i=n;i>=1;i--)
 {
