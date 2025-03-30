@@ -11,7 +11,7 @@ int main()
 
     // Input elements for the matrix
     printf("Input elements in the matrix:\n");
-    for (i = 0; i < rows; i++)7
+    for (i = 0; i < rows; i++)
     {
         for (j = 0; j < cols; j++)
         {
