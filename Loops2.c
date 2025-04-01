@@ -14,7 +14,7 @@ int main()
     printf("The sum of the no is %d\n",sum);
 
 for(int i=n;i>=1;i--)
-{p
+{
     printf("%d\n",i);
 }
 }
