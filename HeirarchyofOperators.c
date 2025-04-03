@@ -4,5 +4,5 @@ int main()
     int i;
     i=2*3/4+4/4-6*3+5/8;
     printf("%d",i);
-z
+zz
 }
