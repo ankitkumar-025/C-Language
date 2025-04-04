@@ -3,7 +3,7 @@ int main()
 {
     char ch='B';
 
-    rhhii
+    rhhiii
     printf("%d",ch);
     
 
