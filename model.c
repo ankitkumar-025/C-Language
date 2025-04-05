@@ -7,5 +7,5 @@ int main()
         
             printf("%d",++i);}
         
-    }p
-p
+    }
+
