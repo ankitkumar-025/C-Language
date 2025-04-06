@@ -5,7 +5,7 @@ int main()
     printf("Enter side :");
     scanf("%f",&side);
     float area;
-    area=side*side;
+    area=side*side;i
     printf("The area of the sqaure is %f",area);
     return 0;
     
