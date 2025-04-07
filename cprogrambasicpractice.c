@@ -6,7 +6,7 @@ int main()
    int x;
    printf("enter a integer");
    scanf("%d",&x);
-v
+
    printf("entered integer is:%d",x);
    return 0;
 
