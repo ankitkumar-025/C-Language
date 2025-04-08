@@ -2,7 +2,7 @@
 int main()
 {
 float l,b;
-printf("ENTER L&B IS :\n");u
+printf("ENTER L&B IS :\n");up
 scanf("%f%f",&l,&b);
 float area=l*b;
 printf("\narea of rectangle is %f",area);
