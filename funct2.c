@@ -6,7 +6,7 @@ int main()
 {
     float side;
     printf("enter side:");
-    scanf("%f",&side);x
+    scanf("%f",&side);
     float len,b;
     printf("\nenter len and b:");
     scanf("%f %f",&len ,&b);
