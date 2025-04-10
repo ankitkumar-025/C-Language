@@ -3,7 +3,7 @@
 int main()
 {
     int matrix[10][10];
-    int rows, cols, i, j;i
+    int rows, cols, i, j;ig
 
     // Input the number of rows and columns of the matrix
     printf("Input the rows and columns of the matrix: ");
