@@ -5,5 +5,5 @@ int main()
     //++i(pre increment)  i++(post increment)
      int i=1;
      printf("%d\n",i++);
-     printf("%d",i);vv
+     printf("%d",i);
 }
