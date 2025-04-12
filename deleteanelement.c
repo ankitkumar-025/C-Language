@@ -4,7 +4,7 @@ void main()
 {
     int arr1[50], i, pos, n;
     printf("Input the size of array : ");
-    scanf("%d", &n);
+    scanf("%d", &n);h
     /* Stored values into the array*/
     printf("Input %d elements in the array in ascending order:\n", n);
     for (i = 0; i < n; i++)
