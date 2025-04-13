@@ -7,7 +7,7 @@ int main()
     printf("Enter a number:");
     scanf("%d",&num);
 
-    square(num);
+    square(num);b
 
 
 }
