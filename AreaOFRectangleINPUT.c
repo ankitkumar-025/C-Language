@@ -4,7 +4,7 @@ int main()
 float l,b;
 printf("ENTER L&B IS :\n");
 scanf("%f%f",&l,&b);
-float area=l*b;xxx
+float area=l*b;
 printf("\narea of rectangle is %f",area);
 }
 
