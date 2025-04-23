@@ -5,7 +5,7 @@ int main()
     for(i=1;i<=j;i++,j--){
         if(i%j==0)
         
-            printf("%d",++i);}kkjj
+            printf("%d",++i);}kkjjjm
         
     }
 
