@@ -8,7 +8,7 @@ int main()
     //declare a new strings to store the concatenated string
 
     char str3[100];
-    int i=0;ssssss
+    int i=0;ssssssaaaa
     int j=0;
     printf("\n first string is: %s",str1);
     printf("\nsecond string is: %s",str2);
