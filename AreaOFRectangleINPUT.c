@@ -2,7 +2,7 @@
 int main()
 {
 float l,b;
-printf("ENTER L&B IS :\n");jkk
+printf("ENTER L&B IS :\n");jkkoo
 scanf("%f%f",&l,&b);
 float area=l*b;
 printf("\narea of rectangle is %f",area);
