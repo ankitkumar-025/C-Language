@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-float l,b;
+float l,b;kk
 printf("ENTER L&B IS :\n");
 scanf("%f%f",&l,&b);
 float area=l*b;
